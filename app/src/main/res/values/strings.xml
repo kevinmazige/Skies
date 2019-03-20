@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Skies</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Skies</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Satellite image</string>
+    <string name="action_settings">Settings</string>
+    <string name="whats_up_activity_name">What\'s up? …</string>
+    <string name="choose_a_category">Select a category …</string>
+    <string name="title_activity_whats_up">Map</string>
+    <string name="title_activity_temp">tempActivity</string>
+    <string name="notification_switch_title">Notification</string>
+    <string name="radius_editText_title">Radius</string>
+    <string name="notification_switch_summary">Reminders when favourite satellites make visual passes</string>
+    <string name="title_activity_path">Map</string>
+    <string name="title_activity_favourite">Favourites</string>
+    <string name="favourites">Favourites</string>
+    <string name="title_activity_add_to_favourites_category">Categories</string>
+    <string name="title_activity_add_to_favourites_satellite">Satellites</string>
+    <string name="sad_face">sad face</string>
+    <string name="nothing_in_favourites">Nothing in Favourites</string>
+
+    <!-- TODO: Replace this value with your own key -->
+    <string name="n2y0_api_key">8PQJ5H-GVN6WR-YNSKYE-3VC1</string>
+
+
+</resources>

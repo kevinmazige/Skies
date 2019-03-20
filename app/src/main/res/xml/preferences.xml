@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreferenceCompat
+        android:defaultValue="false"
+        android:key="notification_switch"
+        android:summary="@string/notification_switch_summary"
+        android:title="@string/notification_switch_title"
+        app:iconSpaceReserved="false"/>
+
+    <EditTextPreference
+        android:defaultValue="66"
+        android:key="radius_edittext"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/radius_editText_title"
+        app:iconSpaceReserved="false"/>
+
+</android.support.v7.preference.PreferenceScreen>
