@@ -22,7 +22,7 @@
     <string name="nothing_in_favourites">Nothing in Favourites</string>
 
     <!-- TODO: Replace this value with your own key -->
-    <string name="n2y0_api_key">8PQJ5H-GVN6WR-YNSKYE-3VC1</string>
+    <string name="n2y0_api_key">REPLACE THIS VALUE WITH YOUR OWN n2yo API KEY</string>
 
 
 </resources>
