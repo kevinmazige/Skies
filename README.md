@@ -8,7 +8,7 @@ For the app to work:
    Put this key in the strings resource file under the TODO comment Skies/app/src/main/res/values/strings.xml
    
 Currently the app initialises its database from a CSV file in the raw folder under resources. Ideally it would get this data
-from a web Api that can be more easily kept up to date.
+from a web Api that can be kept up to date more easily.
 
 N.B. 
 The n2yo api key usually only allows 1000 api transactions per hour. When these are exceeded, the api will not return
